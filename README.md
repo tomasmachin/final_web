@@ -10,3 +10,4 @@ Repositorios de posible uso:
 - https://github.com/XMoraP/ejerciciosExamen
 - https://github.com/CEU-EPS-SW1/sw1_2024_repo
 - https://github.com/HugoAHerrera/GymBuddy
+- https://github.com/MiguelG7/practica_recu
